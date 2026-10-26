@@ -1,0 +1,10 @@
+# Publish only the final SATA migration guide and configuration.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SHA256SUMS
+!/configs/
+/configs/*
+!/configs/boot.cfg
+!/configs/pmon-env.txt
